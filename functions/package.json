@@ -1,0 +1,19 @@
+{
+  "name": "functions",
+  "description": "challenge MELI",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "engines": {
+    "node": "14"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cors": "^2.8.5"
+  },
+  "devDependencies": {
+    "firebase-functions-test": "^0.2.0"
+  },
+  "private": true
+}
